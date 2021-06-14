@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Sandra Garcia -- sandra.garcia -- <twitter>
 
 # THANKS
 
