@@ -15,8 +15,8 @@ This is a simple web project, deployment can be on any web server or local file 
 
 ## How to Contribute
 
-Please fork this repository
+Please fork this repository. Updating for emergency fix
 
 ## Copyright
 
-2014 Git.Training. All rights are reserved
+2014 Git.Training. All rights are reserveid
